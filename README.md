@@ -15,3 +15,7 @@ The shell provides basic functionalities:
 
 ### How to use?
 ```./shell```
+
+
+
+Scheme for the code was provied by Krystian Bacławski.
