@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1vd2HnL1)
+# UNIX Shell Implementation in C
+
+This project is an implementation of a custom shell for UNIX systems, written in C. 
+The shell provides basic functionalities:
+- Input/Output redirection <, >.
+- Pipelines
+- Handling background/foreground processes
+- Built-in and external commands
+- Job handling
+- etc.
+
+### Prerequisites
+- A UNIX-based operating system
+- GCC or any C compiler
+
+### How to use?
+```./shell```
